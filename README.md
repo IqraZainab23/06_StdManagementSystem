@@ -9,11 +9,10 @@ The Student Management System is a comprehensive application designed to efficie
 - ***User-Friendly Interface:*** The system is designed with a user-friendly interface, ensuring ease of use for both administrators and faculty.
 
 ## Usage
-Run the calculator:
+Run the Project:
 ```bash
 npx 06_stdmanagementsystem
 ```
-Follow the prompt to perform calculations with style!
 
 ## Dependencies
 `Inquirer`: Provides the interactive prompt interface.
